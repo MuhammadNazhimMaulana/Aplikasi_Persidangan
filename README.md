@@ -5,3 +5,5 @@
 
 - English
   An example of API using SLIM PHP also complete with sql file that contain database for this simple API, so after downloading the folder (repository) do not forget to import the sql as well
+
+Test
